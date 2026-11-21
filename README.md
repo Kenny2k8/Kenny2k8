@@ -32,8 +32,8 @@
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/Kenny2k8/Pihole-Blocklist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenny2k8&repo=Pihole-Blocklist&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="Pihole-Blocklist">
+<a href="https://github.com/Kenny2k8/Blocklisten">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenny2k8&repo=Blocklisten&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="Blocklisten">
 </a>
 </td>
 <td width="50%">
@@ -44,6 +44,6 @@
 </tr>
 </table>
 
-[Pihole-Blocklist](https://github.com/Kenny2k8/Pihole-Blocklist) sperrt Malware, Phishing, Fakeshops, Werbung und Tracking. Die Adressen stehen in [blocklisten.md](https://github.com/Kenny2k8/Pihole-Blocklist/blob/master/blocklisten.md).
+[Blocklisten](https://github.com/Kenny2k8/Blocklisten) sperrt Malware, Phishing, Fakeshops, Werbung und Tracking. Pi-hole bekommt die volle Fassung, Technitium und AdGuard die kleine. Die Adressen stehen in [blocklisten.md](https://github.com/Kenny2k8/Blocklisten/blob/master/blocklisten.md).
 
 [stream-chat](https://github.com/Kenny2k8/stream-chat) ist ein Fork eines OBS-Chats für Streamer.bot.
